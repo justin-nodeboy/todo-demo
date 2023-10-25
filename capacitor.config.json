@@ -1,0 +1,8 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "vue-demo",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}

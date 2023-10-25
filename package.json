@@ -9,13 +9,21 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@capacitor/app": "5.0.6",
+    "@capacitor/core": "5.5.0",
+    "@capacitor/haptics": "5.0.6",
+    "@capacitor/ios": "5.5.0",
+    "@capacitor/keyboard": "5.0.6",
+    "@capacitor/status-bar": "5.0.6",
     "@ionic/vue": "^7.5.1",
     "@ionic/vue-router": "^7.5.1",
     "vue": "^3.3.4",
     "vue-router": "^4.2.5"
   },
   "devDependencies": {
+    "@capacitor/cli": "5.5.0",
     "@vitejs/plugin-vue": "^4.2.3",
+    "@vue/cli-service": "5.0.8",
     "vite": "^4.4.5"
   }
 }

@@ -25,7 +25,6 @@ export default {
 
       // Emit a custom event to add a new ToDo
       // Pass the newToDo as the payload
-      console.log(newTodo.value)
       ctx.emit('add-todo', newTodo.value);
       newTodo.value = '';
     };
